@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aef73fe8-08ad-4c24-8e83-b1b878ee91e0": {
+      "ProjectGuid": "aef73fe8-08ad-4c24-8e83-b1b878ee91e0",
+      "DisplayName": "MAMIN WORK",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

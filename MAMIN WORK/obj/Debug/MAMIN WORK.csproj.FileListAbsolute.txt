@@ -1,0 +1,8 @@
+C:\Users\TUF laptop\Desktop\MAMIN WORK\MAMIN WORK\bin\Debug\MAMIN WORK.exe.config
+C:\Users\TUF laptop\Desktop\MAMIN WORK\MAMIN WORK\bin\Debug\MAMIN WORK.exe
+C:\Users\TUF laptop\Desktop\MAMIN WORK\MAMIN WORK\bin\Debug\MAMIN WORK.pdb
+C:\Users\TUF laptop\Desktop\MAMIN WORK\MAMIN WORK\obj\Debug\MAMIN WORK.csproj.AssemblyReference.cache
+C:\Users\TUF laptop\Desktop\MAMIN WORK\MAMIN WORK\obj\Debug\MAMIN WORK.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF laptop\Desktop\MAMIN WORK\MAMIN WORK\obj\Debug\MAMIN WORK.csproj.CoreCompileInputs.cache
+C:\Users\TUF laptop\Desktop\MAMIN WORK\MAMIN WORK\obj\Debug\MAMIN WORK.exe
+C:\Users\TUF laptop\Desktop\MAMIN WORK\MAMIN WORK\obj\Debug\MAMIN WORK.pdb
