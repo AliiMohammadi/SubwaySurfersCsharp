@@ -56,6 +56,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Audio\cok1_4.wav" />
+    <Content Include="Audio\cok1_6.wav" />
+    <Content Include="Audio\cok4_16.wav" />
     <Content Include="update ha.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
